@@ -4,18 +4,17 @@
 
 # 
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://github.com/rearc-data/young-centre-for-anabaptist-and-pietist-studies](). 
 
 ## Main Overview
 
 #### Data Source
-
+This Data source is in csv format and the file contains its unique coloumns. 
 ## More Information
-- Source:      
-- 
-- 
-- Frequency:
-- Formats:
+- Source:[http://groups.etown.edu/amishstudies/statistics/older-statistics/]      
+- Homepage[http://groups.etown.edu/amishstudies/]
+
+- Formats:csv
 
 ## Contact Details
 - If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue]() and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
