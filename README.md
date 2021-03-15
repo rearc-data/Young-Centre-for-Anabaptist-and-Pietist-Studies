@@ -4,16 +4,16 @@
 
 # 
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://github.com/rearc-data/young-centre-for-anabaptist-and-pietist-studies](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [Rearc](https://github.com/rearc-data/young-centre-for-anabaptist-and-pietist-studies). 
 
 ## Main Overview
-This release provides information on the Amish Population for the years 2017, 2018, 2019. The Young Center for Anabaptiste and Pietist Studies provides information on Amish life and culture which is designed to assists students, scholars and researchers. The data update anually in the summer. So for there are two additional file available on website for the years 2015 and 2016.
+This release provides information on the Amish Population for the years 2017, 2018, 2019. The Young Center for Anabaptiste and Pietist Studies provides information on Amish life and culture which is designed to assists students, scholars and researchers. The data update anually in the summer. So for there are two additional file available on website for the years 2015 and 2016. Please visit the [Elizabeth town College](http://groups.etown.edu/amishstudies/statistics/older-statistics/)
 #### Data Source
 This Data source is in csv format and the file contains its unique coloumns. 
 ## More Information
-- Source:[http://groups.etown.edu/amishstudies/statistics/older-statistics/]      
-- Homepage[http://groups.etown.edu/amishstudies/]
-
+- Source:[Elizabeth town College](http://groups.etown.edu/amishstudies/statistics/older-statistics/)      
+- [Amish Studies](http://groups.etown.edu/amishstudies/)
+- [Terms of Use](https://www.usa.gov/government-works)
 - Formats:csv
 
 ## Contact Details
