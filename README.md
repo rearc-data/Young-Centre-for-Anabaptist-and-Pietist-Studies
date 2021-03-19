@@ -9,7 +9,7 @@ You can subscribe to the AWS Data Exchange product utilizing the automation feat
 ## Main Overview
 This release provides information on the Amish Population for the years 2017, 2018, and 2019. The Young Center for Anabaptiste and Pietist Studies provides information on Amish life and culture which is designed to assists students, scholars and researchers. This data updates anually in the summer. So far there are two additional file available on website for the years 2015 and 2016. Please visit the [Elizabethtown College Amish Studies page](http://groups.etown.edu/amishstudies/) for more information and data on Amish life and culture.
 #### Data Source
-This Data source is in the CSV format and the file contains its unique coloumns. 
+This Data source is in the CSV format and the file contains its unique columns. 
 ## More Information
 - Source:[Elizabethtown College](http://groups.etown.edu/amishstudies/statistics/older-statistics/)      
 - [Amish Studies](http://groups.etown.edu/amishstudies/)
