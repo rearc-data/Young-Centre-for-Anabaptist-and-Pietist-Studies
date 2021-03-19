@@ -2,7 +2,7 @@
     <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
 </a>
 
-# 
+# Amish Population | Young Center for Anabaptist and Pietist Studies
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-blslqpnu453so](https://aws.amazon.com/marketplace/pp/prodview-blslqpnu453so). 
 
