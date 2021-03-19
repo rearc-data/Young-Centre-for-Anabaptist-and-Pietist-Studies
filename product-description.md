@@ -7,7 +7,7 @@ This release provides information on the Amish Population for the years 2017, 20
 
 #### Data Source
 
-This Data source is in the CSV format and the file contains its unique coloumns. 
+This Data source is in the CSV format and the file contains its unique columns. 
 
 ## More Information
 - Source:[Elizabethtown College](http://groups.etown.edu/amishstudies/statistics/older-statistics/)      
